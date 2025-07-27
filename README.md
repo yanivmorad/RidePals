@@ -2,7 +2,8 @@
 [Visit RidePals online](https://rides-react-3smsoflha-yanivs-projects-b26fadb6.vercel.app/)
 
 ## 🎥 Demo Video
-[![RidePals Demo](https://img.youtube.com/vi/s1dQw-84zp8/0.jpg)]
+[![RidePals Demo](https://img.youtube.com/vi/s1dQw-84zp8/0.jpg)](https://www.youtube.com/watch?v=s1dQw-84zp8)
+
 
 
 https://youtu.be/s1dQw-84zp8
